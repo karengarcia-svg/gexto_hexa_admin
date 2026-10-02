@@ -1,0 +1,8 @@
+{
+  "name": "Remix Gexto | Sistema de Gestión Farmacéutica Disfarma S.A.S.",
+  "description": "Plataforma integral de gestión hospitalaria y dispensación farmacéutica institucional (PBS / No PBS, inventarios, cadena de frío y recepción técnica) para Disfarma S.A.S.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
